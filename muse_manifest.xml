@@ -1,0 +1,147 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1481232449091">
+  <folder name="css">
+    <file name="site_global.css" crc="100728429"/>
+    <file name="index.css" crc="4010421069" ref="index"/>
+    <file name="nomq_index.css" crc="4072047762" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u13283.php" crc="4254244559" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="texture_163991732_black.jpg" crc="4256684239" ref="index"/>
+    <file name="hamburger-01-u4134.png" crc="6967368" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="typographic_insignias_vol2_2_wnwhitetexture.png" crc="88246599" seo="true" ref="index"/>
+    <file name="facebook white-u181.png" crc="315840180" seo="true" ref="index"/>
+    <file name="instagram white-u189.png" crc="436915648" seo="true" ref="index"/>
+    <file name="linkedin white-u196.png" crc="3774101127" seo="true" ref="index"/>
+    <file name="twitter white-u210.png" crc="4133583309" seo="true" ref="index"/>
+    <file name="youtube white-u217.png" crc="391970841" seo="true" ref="index"/>
+    <file name="coffee-625688_1920.jpg" crc="214289311" seo="true" ref="index"/>
+    <file name="coffee-625692_1920.jpg" crc="330365329" seo="true" ref="index"/>
+    <file name="coffee-625693_1920.jpg" crc="3871314021" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="07a791a65f44898c4a98c200737a54e3.jpg" crc="4057904398" ref="index"/>
+    <file name="old-machine-valve.jpg" crc="31920069" ref="index"/>
+    <file name="old-machine-valve_2x.jpg" crc="524260296" ref="index"/>
+    <file name="pexels-photo-38920.jpg" crc="4222459413" ref="index"/>
+    <file name="pexels-photo-38920_2x.jpg" crc="38049418" ref="index"/>
+    <file name="pexels-photo.jpg" crc="3879246270" ref="index"/>
+    <file name="pexels-photo_2x.jpg" crc="232429546" ref="index"/>
+    <file name="texture_163991732_red.jpg" crc="443769776" ref="index"/>
+    <file name="pdf_download_30px.png" crc="3923203908" seo="true" ref="index"/>
+    <file name="texture_163991732_grayscale.jpg" crc="132084194" ref="index"/>
+    <file name="sprite3.jpg" crc="3931556556" ref="index"/>
+    <file name="sprite3_2x.jpg" crc="422266205" ref="index"/>
+    <file name="sprite1.jpg" crc="385290644" ref="index"/>
+    <file name="sprite1_2x.jpg" crc="4207744816" ref="index"/>
+    <file name="texture_163991732_gold.jpg" crc="4055133931" ref="index"/>
+    <file name="u20463.png" crc="532681798" ref="index"/>
+    <file name="u20463_2x.png" crc="4174054098" ref="index"/>
+    <file name="u20463-r.png" crc="4189195825" ref="index"/>
+    <file name="u20463-r_2x.png" crc="4122565707" ref="index"/>
+    <file name="u20409.png" crc="3870861571" ref="index"/>
+    <file name="u20409_2x.png" crc="304952428" ref="index"/>
+    <file name="u20409-r.png" crc="4189965555" ref="index"/>
+    <file name="u20409-r_2x.png" crc="3830601693" ref="index"/>
+    <file name="u20436.png" crc="4031917321" ref="index"/>
+    <file name="u20436_2x.png" crc="4163728980" ref="index"/>
+    <file name="u20436-r.png" crc="4246497395" ref="index"/>
+    <file name="u20436-r_2x.png" crc="4112501668" ref="index"/>
+    <file name="u19563.png" crc="311319064" ref="index"/>
+    <file name="u19563_2x.png" crc="293026111" ref="index"/>
+    <file name="u19563-r.png" crc="4215319913" ref="index"/>
+    <file name="u19563-r_2x.png" crc="368152739" ref="index"/>
+    <file name="hamburger-01-u41342.png" crc="528153035" ref="index"/>
+    <file name="u204632.png" crc="532681798" ref="index"/>
+    <file name="u20463_2x2.png" crc="4174054098" ref="index"/>
+    <file name="u20463-r2.png" crc="4189195825" ref="index"/>
+    <file name="u20463-r_2x2.png" crc="4122565707" ref="index"/>
+    <file name="u204092.png" crc="3870861571" ref="index"/>
+    <file name="u20409_2x2.png" crc="304952428" ref="index"/>
+    <file name="u20409-r2.png" crc="4189965555" ref="index"/>
+    <file name="u20409-r_2x2.png" crc="3830601693" ref="index"/>
+    <file name="u204362.png" crc="4031917321" ref="index"/>
+    <file name="u20436_2x2.png" crc="4163728980" ref="index"/>
+    <file name="u20436-r2.png" crc="4246497395" ref="index"/>
+    <file name="u20436-r_2x2.png" crc="4112501668" ref="index"/>
+    <file name="u195632.png" crc="311319064" ref="index"/>
+    <file name="u19563_2x2.png" crc="293026111" ref="index"/>
+    <file name="u19563-r2.png" crc="4215319913" ref="index"/>
+    <file name="u19563-r_2x2.png" crc="368152739" ref="index"/>
+    <file name="hamburger-01-u41343.png" crc="123093172" ref="index"/>
+    <file name="u204633.png" crc="532681798" ref="index"/>
+    <file name="u20463_2x3.png" crc="4174054098" ref="index"/>
+    <file name="u20463-r3.png" crc="4189195825" ref="index"/>
+    <file name="u20463-r_2x3.png" crc="4122565707" ref="index"/>
+    <file name="u204093.png" crc="3870861571" ref="index"/>
+    <file name="u20409_2x3.png" crc="304952428" ref="index"/>
+    <file name="u20409-r3.png" crc="4189965555" ref="index"/>
+    <file name="u20409-r_2x3.png" crc="3830601693" ref="index"/>
+    <file name="u204363.png" crc="4031917321" ref="index"/>
+    <file name="u20436_2x3.png" crc="4163728980" ref="index"/>
+    <file name="u20436-r3.png" crc="4246497395" ref="index"/>
+    <file name="u20436-r_2x3.png" crc="4112501668" ref="index"/>
+    <file name="u195633.png" crc="311319064" ref="index"/>
+    <file name="u19563_2x3.png" crc="293026111" ref="index"/>
+    <file name="u19563-r3.png" crc="4215319913" ref="index"/>
+    <file name="u19563-r_2x3.png" crc="368152739" ref="index"/>
+    <file name="hamburger-01-u41344.png" crc="510143848" ref="index"/>
+    <file name="07a791a65f44898c4a98c200737a54e3-u29403-fr.jpg" crc="3922159735" ref="index"/>
+    <file name="07a791a65f44898c4a98c200737a54e3-u29403-fr_2x.jpg" crc="89546419" ref="index"/>
+    <file name="u195634.png" crc="311319064" ref="index"/>
+    <file name="u19563_2x4.png" crc="293026111" ref="index"/>
+    <file name="u19563-r4.png" crc="4215319913" ref="index"/>
+    <file name="u19563-r_2x4.png" crc="368152739" ref="index"/>
+    <file name="u204094.png" crc="3870861571" ref="index"/>
+    <file name="u20409_2x4.png" crc="304952428" ref="index"/>
+    <file name="u20409-r4.png" crc="4189965555" ref="index"/>
+    <file name="u20409-r_2x4.png" crc="3830601693" ref="index"/>
+    <file name="u204364.png" crc="4031917321" ref="index"/>
+    <file name="u20436_2x4.png" crc="4163728980" ref="index"/>
+    <file name="u20436-r4.png" crc="4246497395" ref="index"/>
+    <file name="u20436-r_2x4.png" crc="4112501668" ref="index"/>
+    <file name="u204634.png" crc="532681798" ref="index"/>
+    <file name="u20463_2x4.png" crc="4174054098" ref="index"/>
+    <file name="u20463-r4.png" crc="4189195825" ref="index"/>
+    <file name="u20463-r_2x4.png" crc="4122565707" ref="index"/>
+    <file name="hamburger-01-u41345.png" crc="308935102" ref="index"/>
+    <file name="07a791a65f44898c4a98c200737a54e3-u29403-fr2.jpg" crc="395433768" ref="index"/>
+    <file name="07a791a65f44898c4a98c200737a54e3-u29403-fr_2x2.jpg" crc="4277636185" ref="index"/>
+    <file name="u195635.png" crc="311319064" ref="index"/>
+    <file name="u19563_2x5.png" crc="293026111" ref="index"/>
+    <file name="u19563-r5.png" crc="4215319913" ref="index"/>
+    <file name="u19563-r_2x5.png" crc="368152739" ref="index"/>
+    <file name="u204095.png" crc="3870861571" ref="index"/>
+    <file name="u20409_2x5.png" crc="304952428" ref="index"/>
+    <file name="u20409-r5.png" crc="4189965555" ref="index"/>
+    <file name="u20409-r_2x5.png" crc="3830601693" ref="index"/>
+    <file name="u204365.png" crc="4031917321" ref="index"/>
+    <file name="u20436_2x5.png" crc="4163728980" ref="index"/>
+    <file name="u20436-r5.png" crc="4246497395" ref="index"/>
+    <file name="u20436-r_2x5.png" crc="4112501668" ref="index"/>
+    <file name="u204635.png" crc="532681798" ref="index"/>
+    <file name="u20463_2x5.png" crc="4174054098" ref="index"/>
+    <file name="u20463-r5.png" crc="4189195825" ref="index"/>
+    <file name="u20463-r_2x5.png" crc="4122565707" ref="index"/>
+  </folder>
+  <file name="index.html" crc="154978115" seo="true" mt="1481232177896" redirect="true"/>
+</manifest>
