@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1481324933287">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1481325376457">
   <folder name="css">
     <file name="site_global.css" crc="4270751662"/>
-    <file name="index.css" crc="4173516298" ref="index"/>
-    <file name="nomq_index.css" crc="3769985755" ref="index"/>
+    <file name="index.css" crc="139209411" ref="index"/>
+    <file name="nomq_index.css" crc="158120873" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -266,5 +266,5 @@
     <file name="coffee-625693_1920-crop-u332855.jpg" crc="110277234" ref="index"/>
     <file name="coffee-625693_1920-crop-u33285_2x5.jpg" crc="3976051853" ref="index"/>
   </folder>
-  <file name="index.html" crc="378278202" seo="true" mt="1481324868009" redirect="true"/>
+  <file name="index.html" crc="534149428" seo="true" mt="1481325300086" redirect="true"/>
 </manifest>
