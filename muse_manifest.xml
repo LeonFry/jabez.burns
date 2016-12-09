@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1481232449091">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1481324933287">
   <folder name="css">
-    <file name="site_global.css" crc="100728429"/>
-    <file name="index.css" crc="4010421069" ref="index"/>
-    <file name="nomq_index.css" crc="4072047762" ref="index"/>
+    <file name="site_global.css" crc="4270751662"/>
+    <file name="index.css" crc="4173516298" ref="index"/>
+    <file name="nomq_index.css" crc="3769985755" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,32 +27,21 @@
   </folder>
   <folder name="images">
     <file name="texture_163991732_black.jpg" crc="4256684239" ref="index"/>
-    <file name="hamburger-01-u4134.png" crc="6967368" ref="index"/>
+    <file name="hamburger-01-u4134.png" crc="3926145702" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="typographic_insignias_vol2_2_wnwhitetexture.png" crc="88246599" seo="true" ref="index"/>
-    <file name="facebook white-u181.png" crc="315840180" seo="true" ref="index"/>
-    <file name="instagram white-u189.png" crc="436915648" seo="true" ref="index"/>
+    <file name="facebook white-u181.png" crc="4033751475" seo="true" ref="index"/>
+    <file name="instagram white-u189.png" crc="116737575" seo="true" ref="index"/>
     <file name="linkedin white-u196.png" crc="3774101127" seo="true" ref="index"/>
-    <file name="twitter white-u210.png" crc="4133583309" seo="true" ref="index"/>
-    <file name="youtube white-u217.png" crc="391970841" seo="true" ref="index"/>
+    <file name="twitter white-u210.png" crc="421396046" seo="true" ref="index"/>
+    <file name="youtube white-u217.png" crc="137777673" seo="true" ref="index"/>
     <file name="coffee-625688_1920.jpg" crc="214289311" seo="true" ref="index"/>
     <file name="coffee-625692_1920.jpg" crc="330365329" seo="true" ref="index"/>
     <file name="coffee-625693_1920.jpg" crc="3871314021" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="07a791a65f44898c4a98c200737a54e3.jpg" crc="4057904398" ref="index"/>
-    <file name="old-machine-valve.jpg" crc="31920069" ref="index"/>
-    <file name="old-machine-valve_2x.jpg" crc="524260296" ref="index"/>
-    <file name="pexels-photo-38920.jpg" crc="4222459413" ref="index"/>
-    <file name="pexels-photo-38920_2x.jpg" crc="38049418" ref="index"/>
-    <file name="pexels-photo.jpg" crc="3879246270" ref="index"/>
-    <file name="pexels-photo_2x.jpg" crc="232429546" ref="index"/>
     <file name="texture_163991732_red.jpg" crc="443769776" ref="index"/>
     <file name="pdf_download_30px.png" crc="3923203908" seo="true" ref="index"/>
     <file name="texture_163991732_grayscale.jpg" crc="132084194" ref="index"/>
-    <file name="sprite3.jpg" crc="3931556556" ref="index"/>
-    <file name="sprite3_2x.jpg" crc="422266205" ref="index"/>
-    <file name="sprite1.jpg" crc="385290644" ref="index"/>
-    <file name="sprite1_2x.jpg" crc="4207744816" ref="index"/>
     <file name="texture_163991732_gold.jpg" crc="4055133931" ref="index"/>
     <file name="u20463.png" crc="532681798" ref="index"/>
     <file name="u20463_2x.png" crc="4174054098" ref="index"/>
@@ -105,8 +94,6 @@
     <file name="u19563-r3.png" crc="4215319913" ref="index"/>
     <file name="u19563-r_2x3.png" crc="368152739" ref="index"/>
     <file name="hamburger-01-u41344.png" crc="510143848" ref="index"/>
-    <file name="07a791a65f44898c4a98c200737a54e3-u29403-fr.jpg" crc="3922159735" ref="index"/>
-    <file name="07a791a65f44898c4a98c200737a54e3-u29403-fr_2x.jpg" crc="89546419" ref="index"/>
     <file name="u195634.png" crc="311319064" ref="index"/>
     <file name="u19563_2x4.png" crc="293026111" ref="index"/>
     <file name="u19563-r4.png" crc="4215319913" ref="index"/>
@@ -124,8 +111,6 @@
     <file name="u20463-r4.png" crc="4189195825" ref="index"/>
     <file name="u20463-r_2x4.png" crc="4122565707" ref="index"/>
     <file name="hamburger-01-u41345.png" crc="308935102" ref="index"/>
-    <file name="07a791a65f44898c4a98c200737a54e3-u29403-fr2.jpg" crc="395433768" ref="index"/>
-    <file name="07a791a65f44898c4a98c200737a54e3-u29403-fr_2x2.jpg" crc="4277636185" ref="index"/>
     <file name="u195635.png" crc="311319064" ref="index"/>
     <file name="u19563_2x5.png" crc="293026111" ref="index"/>
     <file name="u19563-r5.png" crc="4215319913" ref="index"/>
@@ -142,6 +127,144 @@
     <file name="u20463_2x5.png" crc="4174054098" ref="index"/>
     <file name="u20463-r5.png" crc="4189195825" ref="index"/>
     <file name="u20463-r_2x5.png" crc="4122565707" ref="index"/>
+    <file name="a8438b1e86b244ce3c7f3ac6f07ea86b.jpg" crc="208370789" seo="true" ref="index"/>
+    <file name="a8438b1e86b244ce3c7f3ac6f07ea86b_2x.jpg" crc="208370789" seo="true" ref="index"/>
+    <file name="texture_163991732_parchment.jpg" crc="3902525989" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3.jpg" crc="375612232" seo="true" ref="index"/>
+    <file name="death_to_stock_photography_farm_4.jpg" crc="4042706541" seo="true" ref="index"/>
+    <file name="death_to_stock_photography_farm_10.jpg" crc="214535380" seo="true" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6.jpg" crc="3891086642" seo="true" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10.jpg" crc="207118234" seo="true" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4.jpg" crc="4005304875" seo="true" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3.jpg" crc="3948488499" seo="true" ref="index"/>
+    <file name="deathtostock_lonely_commute-01.jpg" crc="379889329" seo="true" ref="index"/>
+    <file name="deathtostock_lonely_commute-08.jpg" crc="4059395244" seo="true" ref="index"/>
+    <file name="texture_163991732_blue.jpg" crc="4098025616" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u31276.jpg" crc="521207861" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u31276_2x.jpg" crc="3937836626" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u32135.jpg" crc="227672591" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u32135_2x.jpg" crc="46025964" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u32199.jpg" crc="4044592443" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u32199_2x.jpg" crc="461255416" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u32263.jpg" crc="527972846" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u32263_2x.jpg" crc="3879820843" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u32327.jpg" crc="4011473213" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u32327_2x.jpg" crc="4088937728" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u32391.jpg" crc="501933820" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u32391_2x.jpg" crc="190027994" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u32455.jpg" crc="101800363" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u32455_2x.jpg" crc="4219587214" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u32519.jpg" crc="4265517742" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u32519_2x.jpg" crc="157650206" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u32583.jpg" crc="4044875610" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u32583_2x.jpg" crc="3812053913" ref="index"/>
+    <file name="coffee-625688_1920-crop-u33157.jpg" crc="40681567" ref="index"/>
+    <file name="coffee-625688_1920-crop-u33157_2x.jpg" crc="135021871" ref="index"/>
+    <file name="coffee-625692_192087x54.jpg" crc="3781974055" seo="true" ref="index"/>
+    <file name="coffee-625692_192087x54_2x.jpg" crc="4184060107" seo="true" ref="index"/>
+    <file name="coffee-625693_1920-crop-u33285.jpg" crc="61698651" ref="index"/>
+    <file name="coffee-625693_1920-crop-u33285_2x.jpg" crc="56573242" ref="index"/>
+    <file name="facebook white-u18124x23.png" crc="315840180" seo="true" ref="index"/>
+    <file name="instagram white-u18924x23.png" crc="436915648" seo="true" ref="index"/>
+    <file name="linkedin white-u19624x23.png" crc="3774101127" seo="true" ref="index"/>
+    <file name="twitter white-u21024x23.png" crc="4133583309" seo="true" ref="index"/>
+    <file name="youtube white-u21724x23.png" crc="391970841" seo="true" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u312762.jpg" crc="4277863357" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u31276_2x2.jpg" crc="324241216" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u321352.jpg" crc="396228667" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u32135_2x2.jpg" crc="244015489" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u321992.jpg" crc="3857797089" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u32199_2x2.jpg" crc="490513855" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u322632.jpg" crc="139373154" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u32263_2x2.jpg" crc="456636773" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u323272.jpg" crc="450587651" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u32327_2x2.jpg" crc="4109540466" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u323912.jpg" crc="105731089" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u32391_2x2.jpg" crc="154339344" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u324552.jpg" crc="485892499" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u32455_2x2.jpg" crc="225505963" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u325192.jpg" crc="197979911" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u32519_2x2.jpg" crc="483106287" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u325832.jpg" crc="4255240027" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u32583_2x2.jpg" crc="3783127105" ref="index"/>
+    <file name="coffee-625688_1920-crop-u331572.jpg" crc="4276872957" ref="index"/>
+    <file name="coffee-625688_1920-crop-u33157_2x2.jpg" crc="3945639320" ref="index"/>
+    <file name="coffee-625692_1920-crop-u33221.jpg" crc="3840847755" ref="index"/>
+    <file name="coffee-625692_1920-crop-u33221_2x.jpg" crc="3790645082" ref="index"/>
+    <file name="coffee-625693_1920-crop-u332852.jpg" crc="110277234" ref="index"/>
+    <file name="coffee-625693_1920-crop-u33285_2x2.jpg" crc="3976051853" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u312763.jpg" crc="4277863357" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u31276_2x3.jpg" crc="324241216" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u321353.jpg" crc="396228667" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u32135_2x3.jpg" crc="244015489" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u321993.jpg" crc="3857797089" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u32199_2x3.jpg" crc="490513855" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u322633.jpg" crc="139373154" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u32263_2x3.jpg" crc="456636773" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u323273.jpg" crc="450587651" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u32327_2x3.jpg" crc="4109540466" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u323913.jpg" crc="105731089" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u32391_2x3.jpg" crc="154339344" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u324553.jpg" crc="485892499" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u32455_2x3.jpg" crc="225505963" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u325193.jpg" crc="197979911" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u32519_2x3.jpg" crc="483106287" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u325833.jpg" crc="4255240027" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u32583_2x3.jpg" crc="3783127105" ref="index"/>
+    <file name="coffee-625688_1920-crop-u331573.jpg" crc="4276872957" ref="index"/>
+    <file name="coffee-625688_1920-crop-u33157_2x3.jpg" crc="3945639320" ref="index"/>
+    <file name="coffee-625692_1920-crop-u332212.jpg" crc="3840847755" ref="index"/>
+    <file name="coffee-625692_1920-crop-u33221_2x2.jpg" crc="3790645082" ref="index"/>
+    <file name="coffee-625693_1920-crop-u332853.jpg" crc="110277234" ref="index"/>
+    <file name="coffee-625693_1920-crop-u33285_2x3.jpg" crc="3976051853" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u312764.jpg" crc="4277863357" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u31276_2x4.jpg" crc="324241216" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u321354.jpg" crc="396228667" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u32135_2x4.jpg" crc="244015489" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u321994.jpg" crc="3857797089" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u32199_2x4.jpg" crc="490513855" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u322634.jpg" crc="139373154" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u32263_2x4.jpg" crc="456636773" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u323274.jpg" crc="450587651" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u32327_2x4.jpg" crc="4109540466" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u323914.jpg" crc="105731089" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u32391_2x4.jpg" crc="154339344" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u324554.jpg" crc="485892499" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u32455_2x4.jpg" crc="225505963" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u325194.jpg" crc="197979911" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u32519_2x4.jpg" crc="483106287" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u325834.jpg" crc="4255240027" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u32583_2x4.jpg" crc="3783127105" ref="index"/>
+    <file name="coffee-625688_1920-crop-u331574.jpg" crc="4276872957" ref="index"/>
+    <file name="coffee-625688_1920-crop-u33157_2x4.jpg" crc="3945639320" ref="index"/>
+    <file name="coffee-625692_1920-crop-u332213.jpg" crc="3840847755" ref="index"/>
+    <file name="coffee-625692_1920-crop-u33221_2x3.jpg" crc="3790645082" ref="index"/>
+    <file name="coffee-625693_1920-crop-u332854.jpg" crc="110277234" ref="index"/>
+    <file name="coffee-625693_1920-crop-u33285_2x4.jpg" crc="3976051853" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u312765.jpg" crc="4277863357" ref="index"/>
+    <file name="death_to_stock_marzocco_coffee_3-crop-u31276_2x5.jpg" crc="324241216" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u321355.jpg" crc="396228667" ref="index"/>
+    <file name="death_to_stock_photography_farm_4-crop-u32135_2x5.jpg" crc="244015489" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u321995.jpg" crc="3857797089" ref="index"/>
+    <file name="death_to_stock_photography_farm_10-crop-u32199_2x5.jpg" crc="490513855" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u322635.jpg" crc="139373154" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_6-crop-u32263_2x5.jpg" crc="456636773" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u323275.jpg" crc="450587651" ref="index"/>
+    <file name="death_to_stock_photography_nyc_skyline_10-crop-u32327_2x5.jpg" crc="4109540466" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u323915.jpg" crc="105731089" ref="index"/>
+    <file name="death_to_stock_photography_rideordie_4-crop-u32391_2x5.jpg" crc="154339344" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u324555.jpg" crc="485892499" ref="index"/>
+    <file name="death_to_stock_photography_wake_up_3-crop-u32455_2x5.jpg" crc="225505963" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u325195.jpg" crc="197979911" ref="index"/>
+    <file name="deathtostock_lonely_commute-01-crop-u32519_2x5.jpg" crc="483106287" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u325835.jpg" crc="4255240027" ref="index"/>
+    <file name="deathtostock_lonely_commute-08-crop-u32583_2x5.jpg" crc="3783127105" ref="index"/>
+    <file name="coffee-625688_1920-crop-u331575.jpg" crc="4276872957" ref="index"/>
+    <file name="coffee-625688_1920-crop-u33157_2x5.jpg" crc="3945639320" ref="index"/>
+    <file name="coffee-625692_1920-crop-u332214.jpg" crc="3840847755" ref="index"/>
+    <file name="coffee-625692_1920-crop-u33221_2x4.jpg" crc="3790645082" ref="index"/>
+    <file name="coffee-625693_1920-crop-u332855.jpg" crc="110277234" ref="index"/>
+    <file name="coffee-625693_1920-crop-u33285_2x5.jpg" crc="3976051853" ref="index"/>
   </folder>
-  <file name="index.html" crc="154978115" seo="true" mt="1481232177896" redirect="true"/>
+  <file name="index.html" crc="378278202" seo="true" mt="1481324868009" redirect="true"/>
 </manifest>
