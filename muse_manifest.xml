@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1481670151853">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1481671211128">
   <folder name="css">
     <file name="site_global.css" crc="105717313"/>
-    <file name="index.css" crc="387479304" ref="index"/>
-    <file name="nomq_index.css" crc="269045172" ref="index"/>
+    <file name="index.css" crc="3839528633" ref="index"/>
+    <file name="nomq_index.css" crc="4062597899" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -151,5 +151,5 @@
     <file name="burns-logo-texture118x84_2x.png" crc="4062757872" seo="true" ref="index"/>
     <file name="hamburger-01-u4134_2x5.png" crc="4250163952" ref="index"/>
   </folder>
-  <file name="index.html" crc="166591375" seo="true" mt="1481669640966" redirect="true"/>
+  <file name="index.html" crc="4166299222" seo="true" mt="1481671138116" redirect="true"/>
 </manifest>
