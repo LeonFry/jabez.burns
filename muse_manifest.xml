@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1481671211128">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1482021527590">
   <folder name="css">
     <file name="site_global.css" crc="105717313"/>
-    <file name="index.css" crc="3839528633" ref="index"/>
-    <file name="nomq_index.css" crc="4062597899" ref="index"/>
+    <file name="index.css" crc="487758114" ref="index"/>
+    <file name="nomq_index.css" crc="59478915" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,7 +10,6 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="36584860" ref="index"/>
     <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
@@ -26,7 +25,6 @@
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="texture_163991732_black.jpg" crc="4256684239" ref="index"/>
     <file name="hamburger-01-u4134.png" crc="4244469339" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="facebook white-u181.png" crc="4033751475" seo="true" ref="index"/>
@@ -38,10 +36,7 @@
     <file name="coffee-625692_1920.jpg" crc="330365329" seo="true" ref="index"/>
     <file name="coffee-625693_1920.jpg" crc="3871314021" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="texture_163991732_red.jpg" crc="443769776" ref="index"/>
     <file name="pdf_download_30px.png" crc="3923203908" seo="true" ref="index"/>
-    <file name="texture_163991732_grayscale.jpg" crc="132084194" ref="index"/>
-    <file name="texture_163991732_gold.jpg" crc="4055133931" ref="index"/>
     <file name="u20463.png" crc="532681798" ref="index"/>
     <file name="u20463_2x.png" crc="4174054098" ref="index"/>
     <file name="u20463-r.png" crc="4189195825" ref="index"/>
@@ -128,18 +123,16 @@
     <file name="u20463-r_2x5.png" crc="4122565707" ref="index"/>
     <file name="a8438b1e86b244ce3c7f3ac6f07ea86b.jpg" crc="208370789" seo="true" ref="index"/>
     <file name="a8438b1e86b244ce3c7f3ac6f07ea86b_2x.jpg" crc="208370789" seo="true" ref="index"/>
-    <file name="texture_163991732_parchment.jpg" crc="3902525989" ref="index"/>
     <file name="facebook white-u18124x23.png" crc="315840180" seo="true" ref="index"/>
     <file name="instagram white-u18924x23.png" crc="436915648" seo="true" ref="index"/>
     <file name="linkedin white-u19624x23.png" crc="3774101127" seo="true" ref="index"/>
     <file name="twitter white-u21024x23.png" crc="4133583309" seo="true" ref="index"/>
     <file name="youtube white-u21724x23.png" crc="391970841" seo="true" ref="index"/>
     <file name="hamburger-01-u4134_2x.png" crc="332719438" ref="index"/>
-    <file name="burns-logo-texture.png" crc="475151862" seo="true" ref="index"/>
+    <file name="burns-logo-texture.png" crc="4287227113" seo="true" ref="index"/>
     <file name="burns-logo-texture_2x.png" crc="399408142" seo="true" ref="index"/>
     <file name="8a73d8d1251e2179587ed3015c8bf954.jpg" crc="159022205" ref="index"/>
     <file name="8a73d8d1251e2179587ed3015c8bf954_2x.jpg" crc="250457541" ref="index"/>
-    <file name="texture_163991732_blue.jpg" crc="4098025616" ref="index"/>
     <file name="hamburger-01-u4134_2x2.png" crc="4069690506" ref="index"/>
     <file name="burns-logo-texture145x103.png" crc="3931982062" seo="true" ref="index"/>
     <file name="burns-logo-texture145x103_2x.png" crc="471015535" seo="true" ref="index"/>
@@ -150,6 +143,10 @@
     <file name="burns-logo-texture118x84.png" crc="3883766499" seo="true" ref="index"/>
     <file name="burns-logo-texture118x84_2x.png" crc="4062757872" seo="true" ref="index"/>
     <file name="hamburger-01-u4134_2x5.png" crc="4250163952" ref="index"/>
+    <file name="repeating-concreate.png" crc="222043989" ref="index"/>
+    <file name="repeating-concreate_2x.png" crc="115293760" ref="index"/>
+    <file name="repeating-concreate-blue.jpg" crc="345212039" ref="index"/>
+    <file name="repeating-concreate-blue_2x.jpg" crc="367647486" ref="index"/>
   </folder>
-  <file name="index.html" crc="4166299222" seo="true" mt="1481671138116" redirect="true"/>
+  <file name="index.html" crc="3759805180" seo="true" mt="1482020937941" redirect="true"/>
 </manifest>
