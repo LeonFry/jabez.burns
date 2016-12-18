@@ -73,7 +73,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jabez-burns.com/images/facebook%20white-u181.png</loc>
+    <loc>http://jabez-burns.com/images/instagram%20white-u18924x23.png</loc>
     <lastmod>2016-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -97,7 +97,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jabez-burns.com/images/burns-logo-texture.png</loc>
+    <loc>http://jabez-burns.com/images/facebook%20white-u181.png</loc>
     <lastmod>2016-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -145,7 +145,49 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://jabez-burns.com/images/instagram%20white-u18924x23.png</loc>
+    <loc>http://jabez-burns.com/images/burns-logo-texture94x67.png</loc>
+    <lastmod>2016-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jabez-burns.com/images/burns-logo-texture94x67_2x.png</loc>
+    <lastmod>2016-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jabez-burns.com/images/facebook%20white-u18123x22.png</loc>
+    <lastmod>2016-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jabez-burns.com/images/instagram%20white-u18923x22.png</loc>
+    <lastmod>2016-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jabez-burns.com/images/linkedin%20white-u19623x22.png</loc>
+    <lastmod>2016-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jabez-burns.com/images/twitter%20white-u21023x22.png</loc>
+    <lastmod>2016-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jabez-burns.com/images/youtube%20white-u21723x22.png</loc>
+    <lastmod>2016-12-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://jabez-burns.com/images/burns-logo-texture.png</loc>
     <lastmod>2016-12-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
