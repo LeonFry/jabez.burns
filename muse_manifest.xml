@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1482162086605">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="jabez-burns.com" resolutions="1x,2x" timestamp="1482164854753">
   <folder name="css">
     <file name="site_global.css" crc="3796100538"/>
-    <file name="index.css" crc="171300290" ref="index"/>
-    <file name="nomq_index.css" crc="387081318" ref="index"/>
+    <file name="index.css" crc="4217452495" ref="index"/>
+    <file name="nomq_index.css" crc="491498723" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -155,5 +155,5 @@
     <file name="twitter white-u21023x22.png" crc="141835947" seo="true" ref="index"/>
     <file name="youtube white-u21723x22.png" crc="431722449" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3982475158" seo="true" mt="1482160358940" redirect="true"/>
+  <file name="index.html" crc="463090288" seo="true" mt="1482164790710" redirect="true"/>
 </manifest>
